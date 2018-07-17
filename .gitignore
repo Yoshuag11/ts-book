@@ -56,3 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+#Packt example files
+Learning*TypeScript_Code
